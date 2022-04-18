@@ -5,7 +5,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kelli-stone/)
 - ✍️ In my free time, I enjoy running, mountain biking and skiing
 
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=kellihsf&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellihsf&layout=compact" alt="kellihsf"/></p>
 
-____
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=kellihsf&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

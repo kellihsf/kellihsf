@@ -1,7 +1,6 @@
 ### Hi, I'm Kelli! 👋
 
 - 🎓  I’m currently learning Full-Stack Development at DigitalCrafts
-- 🔭 I’m currently working on a Full Stack project using React.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kelli-stone/)
 - ✍️ In my free time, I enjoy running, mountain biking and skiing
 
